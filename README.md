@@ -8,4 +8,8 @@ Some experimentation with Arduino air quality sensors
    - [Using the SDS011](https://towardsdatascience.com/sensing-the-air-quality-5ed5320f7a56)
    - [HackAir - esp based sensor, supports SDS011](https://www.hackair.eu/docs/hackair-home-v2/)
    
+## Sensors
+
+### SDS011
+   - mount with fan down.
 
